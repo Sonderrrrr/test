@@ -1,1 +1,1 @@
-This repo aims at testing o.o   
+This repo is for testing o.o   
